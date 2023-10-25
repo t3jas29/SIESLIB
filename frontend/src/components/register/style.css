@@ -1,0 +1,32 @@
+* {
+    font-family: Helvetica;
+  }
+  
+  .login-div {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .login-div img {
+    margin-top: 40px;
+    width: 150px;
+    height: 175px;
+  }
+  
+  .login-div .action-buttons {
+    justify-content: end;
+    display: flex;
+    align-items: flex-end;
+    margin-top: 15px;
+  }
+  
+  .login-div .button-login{
+      margin-left:  10px;
+  }
+  
+  .login-div .register-text{
+      
+      cursor: pointer;
+      color: rgb(0, 102, 255);
+  }
+  
